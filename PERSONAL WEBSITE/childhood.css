@@ -1,0 +1,25 @@
+/* Basic styling for header and navigation */
+header {
+    background-color: #ff0000;
+    padding: 20px;
+  }
+  
+  nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    color: rgb(29, 207, 62);
+  }
+  
+  nav ul li {
+    display: inline;
+    margin-right: 20px;
+  }
+  
+  /* Style for sections */
+  section {
+    margin: 40px 0;
+  }
+  
+  /* Add more styles as needed */
+  

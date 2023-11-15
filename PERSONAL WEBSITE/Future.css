@@ -1,0 +1,36 @@
+/* styles.css */
+
+/* General Styles */
+/* ... (same as previous CSS) */
+
+/* Specific Styles for Future Aspirations Page */
+main {
+    max-width: 800px;
+    margin: 20px auto;
+    padding: 0 20px;
+  }
+  
+  h1, h2 {
+    margin-bottom: 10px;
+  }
+  nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    color: rgb(43, 228, 68);
+  }
+  
+  nav ul li {
+    display: inline;
+    margin-right: 20px;
+  }
+    
+  
+  p {
+    margin-bottom: 15px;
+  }
+  
+  footer {
+    /* same as the previous CSS file */
+  }
+  

@@ -1,0 +1,42 @@
+/* styles.css */
+
+/* General Styles */
+/* ... (same as the previous CSS file) */
+
+/* Specific Styles for Education Page */
+main {
+    max-width: 800px;
+    margin: 20px auto;
+    padding: 0 20px;
+  }
+
+nav ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  color: rgb(249, 42, 163);
+}
+
+nav ul li {
+  display: inline;
+  margin-right: 20px;
+}
+  
+  h1, h2 {
+    margin-bottom: 10px;
+    color: rgb(167, 194, 106);
+  }
+  
+  ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  li {
+    margin-bottom: 5px;
+  }
+  
+  footer {
+    /* same as the previous CSS file */
+  }
+  
